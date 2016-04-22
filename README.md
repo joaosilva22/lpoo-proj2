@@ -1,1 +1,2 @@
-# lpoo-proj2
+# Segundo projeto de LPOO
+# Aplicação para Android
